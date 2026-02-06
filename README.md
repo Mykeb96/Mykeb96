@@ -17,4 +17,4 @@ Check out the pinned repositories below for examples of:
 - RESTful APIs built with Node/Prisma/NestJS
 - Front-end projects using React and component-based architecture
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mykeb96&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mykeb96&show_icons=true&cache_seconds=1800&theme=default)
