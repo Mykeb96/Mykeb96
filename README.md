@@ -13,6 +13,6 @@ I like working across the stack — setting up APIs and databases on the backend
 
 ## Featured Projects
 Check out the pinned repositories below for examples of:
-- Full-stack applications with authentication and relational databases
-- RESTful APIs built with Node/Prisma/NestJS
-- Front-end projects using React and component-based architecture
+- Full-stack applications with relational databases
+- RESTful APIs built with Node/Prisma/NestJS/Python
+- Front-end projects using React/NextJS/Vite
