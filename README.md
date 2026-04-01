@@ -6,7 +6,7 @@ I like working across the stack — setting up APIs and databases on the backend
 
 ## Tech Stack
 - **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS
-- **Backend:** Node.js, Express, PHP (Laravel), NestJS
+- **Backend:** Node.js, Express, PHP (Laravel), NestJS, ASP.NET Core Web API (.NET 10)
 - **Databases:** PostgreSQL, MySQL
 - **Backend Tools:** Prisma
 - **Infrastructure & Tools:** Git, GitHub, Docker, AWS, CI/CD
