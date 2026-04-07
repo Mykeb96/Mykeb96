@@ -13,6 +13,7 @@ I like working across the stack — setting up APIs and databases on the backend
 
 ## Featured Projects
 Check out the pinned repositories below for examples of:
-- Full-stack applications with relational databases
-- RESTful APIs built with Node/Prisma/NestJS/Python
-- Front-end projects using React/NextJS/Vite
+- Full-stack apps with relational databases
+- REST APIs across ASP.NET Core, Node, and Python stacks, with authentication and JWT-protected routes
+- Front-end work with React, Next.js, or Vite
+- Automated integration tests for APIs using the ASP.NET test host
