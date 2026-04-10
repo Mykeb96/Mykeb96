@@ -1,6 +1,6 @@
 # Hi, I’m Mykael 👋
 
-I’m a full-stack software engineer who mainly works with Node.js and React, building production web apps that people actually use.
+I’m a full-stack software engineer who mainly works with React and a variety of back-end services, building production web apps that people actually use.
 
 I like working across the stack — setting up APIs and databases on the backend, then turning that into clean, usable interfaces on the front end. I care a lot about code that’s easy to read and maintain, especially on teams.
 
@@ -9,7 +9,7 @@ I like working across the stack — setting up APIs and databases on the backend
 - **Backend:** Node.js, Express, PHP (Laravel), NestJS, ASP.NET Core Web API (.NET 10)
 - **Databases:** PostgreSQL, MySQL
 - **Backend Tools:** Prisma
-- **Infrastructure & Tools:** Git, GitHub, Docker, AWS, CI/CD
+- **Infrastructure & Tools:** Git, GitHub, GitLab Docker, Redis, Azure, AWS, CI/CD
 
 ## Featured Projects
 Check out the pinned repositories below for examples of:
