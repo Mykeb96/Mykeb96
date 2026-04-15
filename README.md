@@ -1,8 +1,8 @@
 # Hi, I’m Mykael 👋
 
-I’m a full-stack software engineer who mainly works with React and a variety of back-end services, building production web apps that people actually use.
+I’m a full-stack developer focused on building practical web apps using React and modern back-end stacks.
 
-I like working across the stack — setting up APIs and databases on the backend, then turning that into clean, usable interfaces on the front end. I care a lot about code that’s easy to read and maintain, especially on teams.
+I like working end-to-end—APIs, databases, and front-end—making sure everything feels clean, fast, and easy to work with. I put a lot of emphasis on code quality and maintainability, especially when working on teams.
 
 ## Tech Stack
 - **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS
