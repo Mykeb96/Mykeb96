@@ -1,19 +1,28 @@
 # Hi, I’m Mykael 👋
 
-I’m a full-stack developer focused on building practical web apps using React and modern back-end stacks.
+I’m a software engineer who likes figuring out how to make things run better.
 
-I like working end-to-end—APIs, databases, and front-end—making sure everything feels clean, fast, and easy to work with. I put a lot of emphasis on code quality and maintainability, especially when working on teams.
+A lot of my work has been around automating repetitive stuff, working with large datasets, and cleaning up processes that are slow or manual. I enjoy digging into how systems work and simplifying them so they’re faster and easier to deal with.
+
+I’m comfortable working across the stack—APIs, databases, and front-end—and I try to keep things simple and maintainable.
+
+## What I Focus On
+- Automating repetitive or manual processes
+- Working with and organizing large datasets
+- Improving performance and reliability
+- Building clean, maintainable APIs and services
+- Fixing inefficient or fragile parts of systems
 
 ## Tech Stack
 - **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS
 - **Backend:** Node.js, Express, PHP (Laravel), NestJS, ASP.NET Core Web API (.NET 10)
 - **Databases:** PostgreSQL, MySQL
 - **Backend Tools:** Prisma
-- **Infrastructure & Tools:** Git, GitHub, GitLab Docker, Redis, Azure, AWS, CI/CD
+- **Infrastructure & Tools:** Git, GitHub, GitLab, Docker, Redis, AWS, Azure, CI/CD
 
 ## Featured Projects
 Check out the pinned repositories below for examples of:
-- Full-stack apps with relational databases
-- REST APIs across ASP.NET Core, Node, and Python stacks, with authentication and JWT-protected routes
+- Full-stack applications
+- REST APIs across ASP.NET Core, Node, and Python
 - Front-end work with React, Next.js, or Vite
-- Automated integration tests for APIs using the ASP.NET test host
+- Automated testing and backend-focused work
