@@ -27,8 +27,6 @@ I’m comfortable working across the stack—APIs, databases, and front-end—an
 
 ## Featured Projects
 
-Pinned repos (with live demos where I’ve shipped one):
-
 | Project | Repo | Live |
 |--------|------|------|
 | **Snippet Manager** — full-stack snippets app (ASP.NET Core, EF Core, JWT/RBAC, React, Playwright, xUnit) | [Mykeb96/snippet-manager](https://github.com/Mykeb96/snippet-manager) | [my-snippet-manager.vercel.app](https://my-snippet-manager.vercel.app/) |
